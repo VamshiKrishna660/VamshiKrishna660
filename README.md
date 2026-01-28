@@ -1,14 +1,23 @@
-# 💫 About Me:
-### Hi, I’m Ranga Vamshi Krishna<br>I’m a passionate developer who enjoys building intelligent systems and clean web applications. My work blends Artificial Intelligence, Machine Learning, and Full-Stack Development, with hands-on experience from academic projects, research work, and internships.<br>From AI-driven systems to full-stack web applications, my work reflects curiosity, consistency, and a love for solving real problems. Shaped by academic projects, research, and internships, I believe in learning by building and growing one project at a time.
+# About Me 👨🏼‍🎓
+
+### Hi, I’m **Ranga Vamshi Krishna** 👋
+
+I’m a passionate developer who enjoys building **intelligent systems**, **Generative AI solutions**, and **clean, scalable web applications**.  
+My work blends **Artificial Intelligence**, **Machine Learning**, **Generative AI**, and **Full-Stack Development**, backed by hands-on experience from **academic projects, research work, and internships**.
+
+From **AI-driven and Generative AI systems** to **end-to-end web applications**, my work reflects **curiosity, consistency, and a love for solving real-world problems**.  
+Shaped by academics, research, and industry exposure, I strongly believe in **learning by building** and growing **one project at a time** 🚀
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrvamshikrishna/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrvamshikrishna/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrvamshikrishna99@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Vamshi_Krishna_99/)
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack </>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
