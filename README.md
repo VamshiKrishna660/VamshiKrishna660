@@ -6,6 +6,8 @@ I’m a passionate developer who enjoys building **intelligent systems**, **Gene
 My work blends **Artificial Intelligence**, **Machine Learning**, **Generative AI**, and **Full-Stack Development**, backed by hands-on experience from **academic projects, research work, and internships**.
 
 From **AI-driven and Generative AI systems** to **end-to-end web applications**, my work reflects **curiosity, consistency, and a love for solving real-world problems**.  
+I’m also familiar with **AWS and cloud deployment workflows**, which helps me design applications with scalability in mind.
+
 Shaped by academics, research, and industry exposure, I strongly believe in **learning by building** and growing **one project at a time** 🚀
 
 
